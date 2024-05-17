@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_merlinx-user \
-    cherish_merlinx-userdebug \
-    cherish_merlinx-eng
+    halcyon_merlinx-user \
+    halcyon_merlinx-userdebug \
+    halcyon_merlinx-eng
